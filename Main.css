@@ -17,7 +17,6 @@ body {
 #side-nav-container {
     position: relative;
     height: 100%;
-    left: 150px;
     z-index: 1;
     background-color: #273E47;
     /*  #79A9D1;
@@ -27,7 +26,7 @@ body {
 #side-nav {
     height: 60%;
     width: 100%;
-    ;eft:150px;
+    left:150px;
     cursor: default;
     list-style-type: none;
 }
