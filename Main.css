@@ -10,9 +10,6 @@ body {
     overflow-x: hidden;
   background-color: lightblue;
 }
- ul {
-  list-style-type: none;
- }
 #content {
     height: 100%;
 }
@@ -30,6 +27,7 @@ body {
     height: 60%;
     width: 100%;
     cursor: default;
+    list-style-type: none;
 }
 
 #side-nav li {
