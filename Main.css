@@ -25,8 +25,7 @@ body {
 
 #side-nav {
     height: 60%;
-    width: 100%;
-    left:150px;
+    width: 20%;
     cursor: default;
     list-style-type: none;
 }
