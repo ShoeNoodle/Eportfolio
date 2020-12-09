@@ -17,6 +17,7 @@ body {
 #side-nav-container {
     position: relative;
     height: 100%;
+    left: 150px;
     z-index: 1;
     background-color: #273E47;
     /*  #79A9D1;
