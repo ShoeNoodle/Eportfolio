@@ -8,8 +8,8 @@ body {
     height: 100%;
     overflow-y: hidden;
     overflow-x: hidden;
-  background-color: red;
 }
+
 #content {
     height: 100%;
 }
@@ -25,13 +25,11 @@ body {
 
 #side-nav {
     height: 60%;
-    width: 20%;
+    width: 100%;
     cursor: default;
-    list-style-type: none;
 }
 
 #side-nav li {
-    list-style-type: None;
     background: rgba(255, 20, 20, 0);
     -webkit-transition: all 0.4s;
     -moz-transition: all 0.4s;
