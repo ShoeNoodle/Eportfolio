@@ -10,7 +10,9 @@ body {
     overflow-x: hidden;
   background-color: lightblue;
 }
-
+ ul {
+  list-style-type: none;
+ }
 #content {
     height: 100%;
 }
