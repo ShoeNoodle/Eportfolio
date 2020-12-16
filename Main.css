@@ -56,9 +56,9 @@ main {
 }
 
 .link-text {
+  transition-delay: 2s;
   display: none;
   margin-left: 1rem;
-  transition: var(--transition-speed);
 }
 
 .nav-link svg {
