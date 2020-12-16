@@ -56,9 +56,10 @@ main {
 }
 
 .link-text {
-  transition-delay: 2s;
-  display: none;
-  margin-left: 1rem;
+  display: inline;
+  position: absolute;
+  left: -999px;
+  transition: var(--transition-speed);
 }
 
 .nav-link svg {
