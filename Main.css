@@ -71,6 +71,7 @@ main {
 
 .link-text {
   display: none;
+   margin-left: 1rem;
 }
 
 .nav-link svg {
@@ -112,8 +113,9 @@ main {
 .logo-text
 {
   display: inline;
+  position: absolute;
+  left: -999px;
   transition: var(--transition-speed);
-}
 
 .navbar:hover .logo svg {
   transform: rotate(-180deg);
