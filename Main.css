@@ -58,7 +58,7 @@ main {
 .link-text {
   display: none;
   margin-left: 1rem;
-  transition: 700ms ease;
+  transition: var(--transition-speed);
 }
 
 .nav-link svg {
