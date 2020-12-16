@@ -112,7 +112,6 @@ main {
 .logo-text
 {
   display: inline;
-  position: absolute;
   transition: var(--transition-speed);
 }
 
