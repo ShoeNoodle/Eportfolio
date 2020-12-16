@@ -53,13 +53,12 @@ main {
   filter: grayscale(0%) opacity(1);
   background: var(--bg-secondary);
   color: var(--text-secondary);
-  transition 700ms ease;
 }
 
 .link-text {
   display: none;
   margin-left: 1rem;
-    transition 700ms ease;
+  transition: 700ms ease;
 }
 
 .nav-link svg {
