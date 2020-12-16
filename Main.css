@@ -159,6 +159,10 @@ main {
   {
     left: 0px;
   }
+   .navbar:hover .link-text
+  {
+    left: 0px;
+  }
 }
 
 .dark {
