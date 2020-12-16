@@ -38,6 +38,7 @@ main {
 
 .nav-item {
   width: 100%;
+   transition: 7000ms ease
 }
 
 .nav-link {
