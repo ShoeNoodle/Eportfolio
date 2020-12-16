@@ -162,7 +162,7 @@ main {
   }
    .navbar:hover .link-text
   {
-    left: 0px;
+    left: 25px;
   }
 }
 
