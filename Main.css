@@ -23,7 +23,7 @@ main {
 .navbar {
   position: fixed;
   background-color: var(--bg-primary);
-  transition: width 600ms ease;
+  transition: 700ms ease;
 }
 
 .navbar-nav {
