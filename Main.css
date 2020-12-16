@@ -96,7 +96,7 @@ main {
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 1rem;
-  text-align: center;
+  text-align: left;
   color: var(--text-secondary);
   background: var(--bg-secondary);
   font-size: 1.5rem;
