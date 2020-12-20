@@ -1,4 +1,3 @@
-function onReady() {
-        window.setInterval(50000);
+setTimeout(function onReady() {
         loading.style.visibility='hidden';
-}
+},5000);
