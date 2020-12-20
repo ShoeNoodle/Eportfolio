@@ -1,6 +1,6 @@
 function onReady(callback) {
     var intervalID = window.setInterval(5000);
-    onRead();
+    onRead(function ());
 }
 
 function show(id, value) {
