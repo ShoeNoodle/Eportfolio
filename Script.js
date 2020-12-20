@@ -7,6 +7,5 @@ function onReady(callback) {
     }
 
 onReady(function () {
-    show('page', true);
     show('loading', false);
 });
