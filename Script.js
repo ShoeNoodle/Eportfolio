@@ -5,7 +5,6 @@ function onReady(callback) {
             callback.call(this);
         }
     }
-}
 
 onReady(function () {
     show('page', true);
