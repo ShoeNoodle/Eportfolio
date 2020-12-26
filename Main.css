@@ -176,6 +176,10 @@ main {
   {
     left: 100px;
   }
+  .navbar:hover .main
+  {
+    left:25px;
+  }
 }
 
 .dark {
