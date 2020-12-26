@@ -178,7 +178,7 @@ main {
   }
   .navbar:hover .main
   {
-    left: 105px;
+    margin-left: 105px;
   }
 }
 
