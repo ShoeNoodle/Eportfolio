@@ -80,16 +80,6 @@ main {
   align-items: center;
   height: 100%;
 }
-.fa fa-github{
-  flex-direction: row;
-  padding:100;
-  margin:100;
-}
-.fa fa-linkedin{
-  flex-direction: row;
-  padding:100;
-  margin:100;
-}
 .nav-link:hover {
   filter: grayscale(0%) opacity(1);
   background: var(--bg-secondary);
