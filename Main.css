@@ -5,7 +5,7 @@
   --text-secondary: #ececec;
   --bg-primary: #23232e;
   --bg-secondary: #141418;
-  --transition-speed: 600ms;
+  --transition-speed: 100ms;
 }
 #loading {
     display: block;
@@ -21,8 +21,8 @@
     background-position: center;
 }
 body {
-  color: #0A3E93;
-  background-color: #525252;
+  color: #059ce7;
+  background-color: #212529;
   margin: 0;
   padding: 0;
 }
