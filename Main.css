@@ -60,7 +60,22 @@ main {
   align-items: center;
   height: 100%;
 }
-
+.fa fa-linkedin{
+  padding: 10px;
+  margin: 10px; 
+}
+.fa fa-github{
+  padding: 10px;
+  margin: 10px; 
+}
+.fa fa-file{
+  padding: 10px;
+  margin: 10px; 
+}
+.fa fa-envelope{
+  padding: 10px;
+  margin: 10px; 
+}
 .nav-item {
   width: 100%;
 }
