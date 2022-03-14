@@ -21,7 +21,10 @@
     background-position: center;
 }
 h1 {
-  color: #059ce7;
+  color: #059ce7;  
+  margin: auto;
+  width: 50%;
+  padding: 10px;
 }
 h3 {
   color: #059ce7;
