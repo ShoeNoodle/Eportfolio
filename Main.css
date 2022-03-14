@@ -75,7 +75,6 @@ main {
   list-style: none;
   padding: 100;
   margin: 100;
-  display: center;
   flex-direction: row;
   align-items: center;
   height: 100%;
