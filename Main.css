@@ -75,8 +75,8 @@ main {
 }
 .socials {
   list-style: none;
-  padding: 100;
-  margin: 100;
+  padding: 10px;
+  margin: 10px;
   display: flex;
   flex-direction: row;
   align-items: center;
