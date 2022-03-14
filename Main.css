@@ -19,19 +19,19 @@
     background-repeat: no-repeat;
     background-position: center;
 }
-page{
+.page{
  width: 100%;
  min-height:100%;
  float:left; 
 }
-aboutme{
+.aboutme{
  width:100%;
  min-height:100%;
  float:left; 
  clear: left;
 }
 .fa{
- color:black; 
+ color:blue; 
 }
 h1 {
   color: white;
@@ -74,26 +74,6 @@ main {
   flex-direction: column;
   align-items: center;
   height: 100%;
-}
-.fa fa-linkedin{
-  padding: 10px;
-  margin: 10px; 
-  color: black;
-}
-.fa fa-github{
-  padding: 10px;
-  margin: 10px; 
-    color: white;
-}
-.fa fa-file{
-  padding: 10px;
-  margin: 10px; 
-  color: black;
-}
-.fa fa-envelope{
-  padding: 10px;
-  margin: 10px;
-  color: #0060FF;
 }
 .nav-item {
   width: 100%;
