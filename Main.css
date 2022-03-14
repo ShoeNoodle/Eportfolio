@@ -20,13 +20,13 @@
     background-position: center;
 }
 #page{
- width: 100%;
- min-height:100%;
+ width: 100vw;
+ height: 100vh;
  float:left; 
 }
 #Aboutme{
- width:100%;
- min-height:100%;
+ width: 100vw;
+ height: 100vh;
  float:left; 
  clear: left;
 }
