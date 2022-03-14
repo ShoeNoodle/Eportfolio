@@ -24,6 +24,8 @@
  width: 100vw;
  height: 100vh;
  float:left; 
+ background-image: url("https://i.ibb.co/5hf4Yb5/Capture.png");
+ background-size: cover;
 }
 #Aboutme{
  position: absolute;
@@ -50,8 +52,6 @@ h3 {
 }
 body {
   color: white;
-  background-image: url("https://i.ibb.co/5hf4Yb5/Capture.png");
-  background-size: cover;
   margin: 0;
   padding: 0;
 }
