@@ -90,13 +90,8 @@ main {
 }
 .socials {
   list-style: none;
-  padding: 10px;
-  margin: 10px;
   display: flex;
-  flex-direction: row;
   align-items: center;
-  height: 100%;
-  text-align: center;
   justify-content: space-evenly;
 }
 .nav-link:hover {
