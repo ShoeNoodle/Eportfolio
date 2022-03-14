@@ -34,6 +34,14 @@
  float:left; 
  clear: left;
 }
+#Projects{
+ background-color:#14151B;
+ text-align: center;
+ width: 100vw;
+ height: 100vh;
+ float:left; 
+ clear: left;
+}
 .fa{
  color:white; 
 }
