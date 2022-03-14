@@ -73,8 +73,8 @@ main {
 }
 .socials {
   list-style: none;
-  padding: 100;
-  margin: 100;
+  padding: 10;
+  margin: 10;
   flex-direction: row;
   align-items: center;
   height: 100%;
