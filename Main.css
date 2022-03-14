@@ -73,9 +73,9 @@ main {
 }
 .socials {
   list-style: none;
-  padding: 10;
-  margin: 0;
-  display: flex;
+  padding: 100;
+  margin: 100;
+  display: center;
   flex-direction: row;
   align-items: center;
   height: 100%;
