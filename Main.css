@@ -101,7 +101,6 @@ main {
 
 .link-text {
   display: inline;
-  position: absolute;
   left: -997px;
   transition: var(--transition-speed);
 }
@@ -145,7 +144,6 @@ main {
 .logo-text
 {
   display: inline;
-  position: absolute;
   left: -999px;
   transition: var(--transition-speed);
 }
