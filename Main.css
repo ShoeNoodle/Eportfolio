@@ -22,7 +22,7 @@
 }
 h1 {
   font-weight: bold;
-  color: #059ce7;
+  color: white;
   font-size: 2.5em;
 }
 h3 {
@@ -73,9 +73,8 @@ main {
 }
 .socials {
   list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
+  padding: 100;
+  margin: 100;
   flex-direction: row;
   align-items: center;
   height: 100%;
