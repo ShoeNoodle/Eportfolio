@@ -20,20 +20,20 @@
     background-position: center;
 }
 #page{
-      position: absolute;
+ position: absolute;
  width: 100vw;
  height: 100vh;
  float:left; 
 }
 #Aboutme{
-      position: absolute;
+ position: absolute;
  width: 100vw;
  height: 100vh;
  float:left; 
  clear: left;
 }
 .fa{
- color:white; 
+ color:green; 
 }
 h1 {
   color: white;
