@@ -21,8 +21,8 @@
     background-position: center;
 }
 h1 {
-  font-size: 32px;
-  color: #059ce7;  
+  font-weight: bold;
+  font-size: 150%;
 }
 h3 {
   color: #059ce7;
