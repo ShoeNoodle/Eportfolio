@@ -81,6 +81,7 @@ main {
   height: 100%;
 }
 .fa fa-github{
+  flex-direction: row;
   padding:100;
   margin:100;
 }
