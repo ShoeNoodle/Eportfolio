@@ -20,11 +20,13 @@
     background-position: center;
 }
 #page{
+      position: absolute;
  width: 100vw;
  height: 100vh;
  float:left; 
 }
 #Aboutme{
+      position: absolute;
  width: 100vw;
  height: 100vh;
  float:left; 
