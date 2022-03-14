@@ -19,6 +19,14 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+page{
+ width: 100%;
+  min-height:100%;
+}
+aboutme{
+ width:100%;
+  min-height:100%;
+}
 h1 {
   color: white;
   font-size: 4em;
