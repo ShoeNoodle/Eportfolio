@@ -30,6 +30,9 @@ aboutme{
  float:left; 
  clear: left;
 }
+.fa{
+ color:black; 
+}
 h1 {
   color: white;
   font-size: 4em;
