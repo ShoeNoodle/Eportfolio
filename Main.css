@@ -19,12 +19,12 @@
     background-repeat: no-repeat;
     background-position: center;
 }
-.page{
+#page{
  width: 100%;
  min-height:100%;
  float:left; 
 }
-.aboutme{
+#Aboutme{
  width:100%;
  min-height:100%;
  float:left; 
