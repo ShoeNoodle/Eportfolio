@@ -101,6 +101,8 @@ main {
   position: fixed;
   background-color: var(--bg-primary);
   transition: 700ms ease;
+  float:left;
+  clear:left;
 }
 
 .navbar-nav {
