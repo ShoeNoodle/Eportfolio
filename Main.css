@@ -218,21 +218,6 @@ main {
     margin: 0;
   }
 }
-#skills-container {
-    position: relative;
-    height: 100%;
-    width: 100%;
-    background-color: #A0CFD3;
-    z-index: 2 !important;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
-#skills-box {
-    height: 100%;
-    padding: 10px 10px 10px 10px;
-    overflow-y: auto;
-}
 
 #skills-header {
     font-size: 25px;
