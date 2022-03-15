@@ -233,8 +233,6 @@ main {
     display: table;
     height: 500px;
     text-align: center;
-    float: left;
-    clear: left;
 }
 
 #ranking-container > div {
@@ -266,8 +264,6 @@ main {
     margin: 0 auto;
     background-size: 100% 50px;
     background-position: left top;
-    float:right;
-    clear:right;
 }
 
 .chart li {
