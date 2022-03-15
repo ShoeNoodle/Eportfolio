@@ -219,6 +219,7 @@ main {
     border-bottom: 2px dashed #4E5283;
     padding: 15px 8px 8px 8px;
     overflow-y: auto;
+    list-style-type: none;
 }
 #skill-tools{
     border-left: 2px dashed #4E5283;
@@ -227,6 +228,7 @@ main {
     border-bottom: 2px dashed #4E5283;
     padding: 1px 8px 1px 8px;
     overflow-y: auto;
+    list-style-type: none;
 }
 #skills-header {
     font-size: 25px;
@@ -319,7 +321,6 @@ main {
     content: "\3E\ ";
     color: #0E6BA8;
 }
-
 .skill-icon {
     color: #4E5283;
 }
