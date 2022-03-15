@@ -221,10 +221,8 @@ main {
 }
 
 #ranking-container {
-    display: table;
     height: 500px;
     text-align: center;
-    font-family: 'Nunito', sans-serif;
 }
 
 #ranking-container > div {
