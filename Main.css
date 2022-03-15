@@ -217,7 +217,7 @@ main {
     border-right: 2px dashed #4E5283;
     border-top: 2px dashed #4E5283;
     border-bottom: 2px dashed #4E5283;
-    padding: 8px 8px 8px 8px;
+    padding: 5px 5px 5px 5px;
     overflow-y: auto;
 }
 #skill-tools{
@@ -225,7 +225,7 @@ main {
     border-right: 2px dashed #4E5283;
     border-top: 2px dashed #4E5283;
     border-bottom: 2px dashed #4E5283;
-    padding: 8px 8px 8px 8px;
+    padding: 5px 5px 5px 5px;
     overflow-y: auto;
 }
 #skills-box {
