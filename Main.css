@@ -221,13 +221,21 @@ main {
 }
 
 #ranking-container {
-    display: table;
     height: 500px;
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-content: center;
+    float: left;
+    margin-left:300px;
+    margin-right:5px;
 }
 #chart-container{
  display: flex;
-   flex: 1;
+ align-content: space-around;
+ flex-direction: column-reverse;
 }
 #ranking-container > div {
     display: table-row;
@@ -253,11 +261,9 @@ main {
     display: table;
     table-layout: fixed;
     width: 100%;
-    max-width: 800px;
+    max-width: 750px;
     height: 500px;
-    margin: 0 auto;
-    background-size: 100% 50px;
-    background-position: left top;
+  
 }
 
 .chart li {
