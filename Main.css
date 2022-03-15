@@ -222,7 +222,7 @@ main {
 
 #ranking-container {
     height: 500px;
-    text-align: center;
+    text-align: right;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column-reverse;
