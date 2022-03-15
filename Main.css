@@ -285,18 +285,12 @@ main {
 }
 
 .chart span {
-    margin: 0 1em;
     display: block;
     background: #4E5283;
-    border-radius: 4px;
 }
 
 .chart span:before {
     position: absolute;
-    left: 0;
-    right: 0;
-    top: 100%;
-    padding: 5px 0.1em;
     display: block;
     text-align: center;
     content: attr(title);
@@ -310,7 +304,6 @@ main {
 }
 
 .skill-column {
-    margin-top: 75px;
 }
 
 .skills-header {
@@ -321,7 +314,6 @@ main {
 .skills {
     font-size: 18px;
     text-align: left;
-    margin: 0 auto;
     display: table;
 }
 
@@ -330,9 +322,6 @@ main {
     border-right: 2px dashed black;
     border-top: 2px dashed black;
     border-bottom: 2px dashed black;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-top: 2px;
 }
 
 .skill-arrow:before {
