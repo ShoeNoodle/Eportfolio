@@ -224,15 +224,6 @@ main {
     height: 100%;
     width: 100%;
     background-color: #A0CFD3;
-    z-index: 2 !important;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
-#skills-box {
-    height: 100%;
-    padding: 10px 10px 10px 10px;
-    overflow-y: auto;
 }
 
 #skills-header {
@@ -250,7 +241,6 @@ main {
     display: table;
     height: 500px;
     text-align: center;
-    font-family: 'Nunito', sans-serif;
 }
 
 #ranking-container > div {
@@ -277,7 +267,7 @@ main {
     display: table;
     table-layout: fixed;
     width: 100%;
-    max-width: 800px;
+    max-width: 750px;
     height: 500px;
     margin: 0 auto;
     background-size: 100% 50px;
@@ -309,7 +299,6 @@ main {
     content: attr(title);
     word-wrap: break-word;
     font-weight: 600;
-    font-family: 'Nunito', sans-serif;
 }
 
 .verticalLine {
@@ -322,13 +311,11 @@ main {
 }
 
 .skills-header {
-    font-family: 'Nunito', sans-serif;
     font-size: 20px;
     font-weight: 600;
 }
 
 .skills {
-    font-family: 'Nunito', sans-serif;
     font-size: 18px;
     text-align: left;
     margin: 0 auto;
