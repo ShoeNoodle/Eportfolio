@@ -274,6 +274,7 @@ main {
     max-width: 750px;
     height: 500px;
     background-position: left top;
+    background-size: 100% 50px;
 }
 
 .chart li {
