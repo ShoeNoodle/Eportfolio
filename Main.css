@@ -269,8 +269,6 @@ main {
     width: 100%;
     max-width: 750px;
     height: 500px;
-    margin: 0 auto;
-    background-size: 100% 50px;
     background-position: left top;
 }
 
