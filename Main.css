@@ -203,12 +203,14 @@ main {
     padding-bottom: 30px;
 }
 #Framework{
-  position:flex;
-  float:left;
+    padding-left: 150px;
+    padding-top: 40px;
+    float:left;
 }
 #Tools{
-  position:flex;
-  float:right;
+    float: inherit;
+    padding-top: 40px;
+    padding-left: 200px;
 }
 #skills-box {
     height: 100%;
