@@ -218,12 +218,6 @@ main {
     margin: 0;
   }
 }
-#skills-container {
-    position: relative;
-    height: 100%;
-    width: 100%;
-    background-color: #A0CFD3;
-}
 #skills-header {
     font-size: 25px;
     margin-bottom: 20px;
@@ -239,7 +233,8 @@ main {
     display: table;
     height: 500px;
     text-align: center;
-    font-family: 'Nunito', sans-serif;
+    float: left;
+    clear: left;
 }
 
 #ranking-container > div {
@@ -266,11 +261,13 @@ main {
     display: table;
     table-layout: fixed;
     width: 100%;
-    max-width: 800px;
+    max-width: 725px;
     height: 500px;
     margin: 0 auto;
     background-size: 100% 50px;
     background-position: left top;
+    float:right;
+    clear:right;
 }
 
 .chart li {
