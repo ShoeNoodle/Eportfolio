@@ -231,6 +231,7 @@ main {
     float: left;
     margin-left:300px;
     margin-right:5px;
+    margin-top: 16px;
 }
 #chart-container{
  display: flex;
@@ -242,19 +243,19 @@ main {
 }
 
 #ranking-container > div > h6 {
-    display: table-cell;
+  padding-top: 105px;
 }
 
 #rank-1-wrap > h6 {
-    vertical-align: top;
+  padding-left: 45px;
 }
 
 #rank-2-wrap > h6 {
-    vertical-align: middle;
+  
 }
 
 #rank-3-wrap > h6 {
-    vertical-align: bottom;
+   
 }
 
 .chart {
