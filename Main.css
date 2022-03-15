@@ -206,11 +206,19 @@ main {
     padding-left: 150px;
     padding-top: 40px;
     float:left;
+    border-left: 2px dashed #4E5283;
+    border-right: 2px dashed #4E5283;
+    border-top: 2px dashed #4E5283;
+    border-bottom: 2px dashed #4E5283;
 }
 #Tools{
     float: inherit;
     padding-top: 40px;
     padding-left: 200px;
+    border-left: 2px dashed #4E5283;
+    border-right: 2px dashed #4E5283;
+    border-top: 2px dashed #4E5283;
+    border-bottom: 2px dashed #4E5283;
 }
 #skills-box {
     height: 100%;
