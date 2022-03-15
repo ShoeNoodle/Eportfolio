@@ -221,6 +221,8 @@ main {
 }
 
 #ranking-container {
+    display: flex;
+    flex:1;
     height: 500px;
     text-align: center;
 }
