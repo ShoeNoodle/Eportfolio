@@ -101,8 +101,6 @@ main {
   position: fixed;
   background-color: var(--bg-primary);
   transition: 700ms ease;
-  float:left;
-  clear:right;
 }
 
 .navbar-nav {
@@ -235,7 +233,6 @@ main {
     display: table;
     height: 500px;
     text-align: center;
-  clear: right;
 }
 
 #ranking-container > div {
@@ -264,10 +261,6 @@ main {
     width: 100%;
     max-width: 725px;
     height: 500px;
-    margin: 0 auto;
-    background-size: 100% 50px;
-    background-position: left top;
-  clear: left;
 }
 
 .chart li {
@@ -285,17 +278,14 @@ main {
 }
 
 .chart span:before {
-    position: absolute;
     left: 0;
     right: 0;
     top: 100%;
-    padding: 5px 0.1em;
     display: block;
     text-align: center;
     content: attr(title);
     word-wrap: break-word;
     font-weight: 600;
-    font-family: 'Nunito', sans-serif;
 }
 
 .verticalLine {
