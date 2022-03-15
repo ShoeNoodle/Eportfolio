@@ -102,7 +102,7 @@ main {
   background-color: var(--bg-primary);
   transition: 700ms ease;
   float:left;
-  clear:left;
+  clear:right;
 }
 
 .navbar-nav {
@@ -235,6 +235,7 @@ main {
     display: table;
     height: 500px;
     text-align: center;
+  clear: right;
 }
 
 #ranking-container > div {
@@ -266,6 +267,7 @@ main {
     margin: 0 auto;
     background-size: 100% 50px;
     background-position: left top;
+  clear: left;
 }
 
 .chart li {
