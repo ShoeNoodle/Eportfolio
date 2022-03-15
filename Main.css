@@ -225,7 +225,11 @@ main {
     width: 100%;
     background-color: #A0CFD3;
 }
-
+#skills-box {
+    height: 100%;
+    padding: 10px 10px 10px 10px;
+    overflow-y: auto;
+}
 #skills-header {
     font-size: 25px;
     margin-bottom: 20px;
