@@ -202,7 +202,14 @@ main {
     padding-top: 30px;
     padding-bottom: 30px;
 }
-
+.framework{
+  position:flex;
+  float:left;
+}
+.tools{
+  position:flex;
+  float:right;
+}
 #skills-box {
     height: 100%;
     padding: 10px 10px 10px 10px;
