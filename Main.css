@@ -221,7 +221,7 @@ main {
 }
 
 #ranking-container {
-    height: 500px;
+    height: 560px;
     text-align: right;
     display: flex;
     flex-wrap: wrap;
@@ -229,9 +229,8 @@ main {
     justify-content: space-between;
     align-content: center;
     float: left;
-    margin-left:300px;
+    margin-left:400px;
     margin-right:5px;
-    margin-top: 16px;
 }
 #chart-container{
  display: flex;
