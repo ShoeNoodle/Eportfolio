@@ -42,6 +42,22 @@
  float:left; 
  clear: left;
 }
+#Interests{
+ background-color:#14151B;
+ text-align: center;
+ width: 99vw;
+ height: 100vh;
+ float:left; 
+ clear: left;
+}
+#Skills{
+ background-color:#14151B;
+ text-align: center;
+ width: 99vw;
+ height: 100vh;
+ float:left; 
+ clear: left;
+}
 .fa{
  color:white; 
 }
