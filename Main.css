@@ -202,11 +202,11 @@ main {
     padding-top: 30px;
     padding-bottom: 30px;
 }
-.framework{
+#framework{
   position:flex;
   float:left;
 }
-.tools{
+#tools{
   position:flex;
   float:right;
 }
