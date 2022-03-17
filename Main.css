@@ -194,6 +194,41 @@ main {
 .navbar:hover main{
     margin-left: 10rem;
 }
+#projects-container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: #39393A;
+    z-index: 2 !important;
+    overflow-y: auto;
+}
+
+#projects {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+
+.project-card {
+    position: relative;
+    height: 300px;
+    width: 300px;
+    margin: 40px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+}
+
+.project-img {
+    width: 150px;
+    height: 150px;
+    margin: 20px;
+}
+#buckets {
+    background-color: #56A3A6;
+}
 #skills-container {
     position: relative;
     height: 100%;
