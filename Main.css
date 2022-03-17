@@ -238,7 +238,6 @@ main {
 }
 
 .text-area::after {
-    content: " ";
     z-index: 10;
     display: block;
     position: absolute;
