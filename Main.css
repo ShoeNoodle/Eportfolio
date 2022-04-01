@@ -26,6 +26,7 @@
 #page{
  width: 99vw;
  height: 100vh;
+ position:absolute;
  float:left; 
  background-image: url("https://i.ibb.co/5hf4Yb5/Capture.png");
  background-size: cover;
@@ -102,12 +103,12 @@ main {
 }
 
 .navbar {
+  position: relative;
   background-color: var(--bg-primary);
   transition: 700ms ease;
 }
 
 .navbar-nav {
-  position:fixed;
   list-style: none;
   padding: 0;
   margin: 0;
@@ -198,9 +199,8 @@ main {
     margin-left: 10rem;
 }
 .navbar:hover aboutme{
- margin-left:10rem; 
+ margin-left: 10rem; 
 }
-
 #projects-container {
     position: relative;
     height: 100%;
