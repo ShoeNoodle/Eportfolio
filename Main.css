@@ -26,9 +26,13 @@
 #page{
  width: 99vw;
  height: 100vh;
+ position:absolute;
  float:left; 
  background-image: url("https://i.ibb.co/5hf4Yb5/Capture.png");
  background-size: cover;
+}
+#content{
+  
 }
 #Aboutme{
  background-color:#14151B;
@@ -99,7 +103,7 @@ main {
 }
 
 .navbar {
-  position: fixed;
+  position: relative;
   background-color: var(--bg-primary);
   transition: 700ms ease;
 }
