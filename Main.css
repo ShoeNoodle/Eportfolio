@@ -198,6 +198,9 @@ main {
 .navbar:hover main{
     margin-left: 10rem;
 }
+.navbar:hover aboutme{
+ margin-left:10rem; 
+}
 
 #projects-container {
     position: relative;
