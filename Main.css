@@ -103,7 +103,7 @@ main {
 }
 
 .navbar {
-  position: relative;
+  position: static;
   background-color: var(--bg-primary);
   transition: 700ms ease;
 }
