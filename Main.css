@@ -131,6 +131,9 @@ main {
   align-items: center;
   justify-content: space-evenly;
 }
+ .navbar:hover + #Aboutme{
+  left: 100rem;
+ }
 .nav-link:hover {
   filter: grayscale(0%) opacity(1);
   background: var(--bg-secondary);
