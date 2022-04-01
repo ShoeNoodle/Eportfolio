@@ -191,12 +191,6 @@ main {
 .navbar:hover .logo svg {
   transform: rotate(-180deg);
 }
-.navbar:hover pre{
-    margin-left: 10rem;
-}
-.navbar:hover .Aboutme{
- margin-left:16rem; 
-}
 #projects-container {
     position: relative;
     height: 100%;
@@ -423,7 +417,9 @@ main {
   .navbar:hover {
     width: 16rem;
   }
-
+  .navbar:hover #Aboutme{
+    margin-left: 16rem;
+  }
   .navbar:hover .link-text {
     display: inline;
   }
