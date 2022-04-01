@@ -191,10 +191,10 @@ main {
 .navbar:hover .logo svg {
   transform: rotate(-180deg);
 }
-.navbar:hover main{
+.navbar:hover #Page{
     margin-left: 10rem;
 }
-.navbar:hover aboutme{
+.navbar:hover #Aboutme{
  margin-left:16rem; 
 }
 #projects-container {
