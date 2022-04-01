@@ -26,7 +26,6 @@
 #page{
  width: 99vw;
  height: 100vh;
- position:absolute;
  float:left; 
  background-image: url("https://i.ibb.co/5hf4Yb5/Capture.png");
  background-size: cover;
@@ -103,12 +102,12 @@ main {
 }
 
 .navbar {
-  position: static;
   background-color: var(--bg-primary);
   transition: 700ms ease;
 }
 
 .navbar-nav {
+  position:fixed;
   list-style: none;
   padding: 0;
   margin: 0;
