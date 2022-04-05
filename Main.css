@@ -206,6 +206,8 @@ main {
 #Enigma {
     overflow-y: hidden;
     overflow-x: hidden;
+      float: left;
+    margin-left: 265px;
 }
 
 .project-card {
