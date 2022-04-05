@@ -207,7 +207,10 @@ main {
     overflow-y: hidden;
     overflow-x: hidden;
 }
-
+#projects2 {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
 .project-card {
     position: relative;
     height: 300px;
