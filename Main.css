@@ -34,7 +34,7 @@
  text-align: center;
  width: 99vw;
  height: 100vh;
- float:left; 
+ float:right; 
  clear: left;
 }
 #Projects{
@@ -42,7 +42,7 @@
  text-align: center;
  width: 99vw;
  height: 100vh;
- float:left; 
+ float:right; 
  clear: left;
 }
 #Interests{
@@ -50,7 +50,7 @@
  text-align: center;
  width: 99vw;
  height: 100vh;
- float:left; 
+ float:right; 
  clear: left;
 }
 #Skills{
@@ -58,7 +58,7 @@
  text-align: center;
  width: 99vw;
  height: 100vh;
- float:left; 
+ float:right; 
  clear: left;
  list-style: none;
 }
