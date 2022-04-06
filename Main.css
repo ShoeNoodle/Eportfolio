@@ -32,7 +32,7 @@
 #Aboutme{
  background-color:#14151B;
  text-align: center;
- width: 100%;
+ width: 100vw;
  height: 100vh;
  float:right; 
  clear: left;
