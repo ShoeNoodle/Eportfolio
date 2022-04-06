@@ -209,7 +209,9 @@ main {
     float: left;
     margin-left: 260px;
 }
-
+#Enigmadiv{
+  background-color: #FFFFFF
+}
 .project-card {
     position: relative;
     height: 300px;
