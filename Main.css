@@ -38,6 +38,7 @@
  float:right; 
  clear: left;
       overflow-y: hidden;
+  overflow-x: hidden;
 }
 #Projects{
  background-color:#14151B;
@@ -47,6 +48,7 @@
  float:right; 
  clear: left;
       overflow-y: hidden;
+    overflow-x: hidden;
 }
 #Interests{
  background-color:#14151B;
@@ -56,6 +58,7 @@
  float:right; 
  clear: left;
       overflow-y: hidden;
+    overflow-x: hidden;
 }
 #Skills{
  background-color:#14151B;
@@ -66,6 +69,7 @@
  clear: left;
  list-style: none;
       overflow-y: hidden;
+    overflow-x: hidden;
 }
 .fa{
  color:white; 
