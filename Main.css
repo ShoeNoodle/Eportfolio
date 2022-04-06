@@ -28,6 +28,7 @@
  height: 100vh;
  background-image: url("https://i.ibb.co/5hf4Yb5/Capture.png");
  background-size: cover;
+      overflow-y: hidden;
 }
 #Aboutme{
  background-color:#14151B;
@@ -36,6 +37,7 @@
  height: 100vh;
  float:right; 
  clear: left;
+      overflow-y: hidden;
 }
 #Projects{
  background-color:#14151B;
@@ -44,6 +46,7 @@
  height: 100vh;
  float:right; 
  clear: left;
+      overflow-y: hidden;
 }
 #Interests{
  background-color:#14151B;
@@ -52,6 +55,7 @@
  height: 100vh;
  float:right; 
  clear: left;
+      overflow-y: hidden;
 }
 #Skills{
  background-color:#14151B;
@@ -61,6 +65,7 @@
  float:right; 
  clear: left;
  list-style: none;
+      overflow-y: hidden;
 }
 .fa{
  color:white; 
