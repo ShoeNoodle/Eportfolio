@@ -50,16 +50,6 @@
       overflow-y: hidden;
     overflow-x: hidden;
 }
-#Interests{
- background-color:#14151B;
- text-align: center;
- width: 100%;
- height: 100vh;
- float:right; 
- clear: left;
-      overflow-y: hidden;
-    overflow-x: hidden;
-}
 #Skills{
  background-color:#14151B;
  text-align: center;
