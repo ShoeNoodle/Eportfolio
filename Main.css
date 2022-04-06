@@ -24,7 +24,7 @@
     background-position: center;
 } 
 #page{ 
- width: 99vw;
+ width: 100%;
  height: 100vh;
  background-image: url("https://i.ibb.co/5hf4Yb5/Capture.png");
  background-size: cover;
@@ -32,7 +32,7 @@
 #Aboutme{
  background-color:#14151B;
  text-align: center;
- width: 99vw;
+ width: 100%;
  height: 100vh;
  float:right; 
  clear: left;
@@ -40,7 +40,7 @@
 #Projects{
  background-color:#14151B;
  text-align: center;
- width: 99vw;
+ width: 100%;
  height: 100vh;
  float:right; 
  clear: left;
@@ -48,7 +48,7 @@
 #Interests{
  background-color:#14151B;
  text-align: center;
- width: 99vw;
+ width: 100%;
  height: 100vh;
  float:right; 
  clear: left;
@@ -56,7 +56,7 @@
 #Skills{
  background-color:#14151B;
  text-align: center;
- width: 99vw;
+ width: 100%;
  height: 100vh;
  float:right; 
  clear: left;
