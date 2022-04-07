@@ -212,6 +212,7 @@ main {
     margin-left: 260px;
 }
 #form-background{
+ display:none;
  width:100vw;
  height:100vh;
  position:absolute;
