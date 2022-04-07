@@ -230,27 +230,21 @@ main {
     color:black;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    font-size: 1em;
     text-align: center;
-    font-weight: 100; 
 }
 .popuphead{
     color:black;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    font-size: 1em;
     text-align: center;
-    font-weight: 100; 
 }
 .popuplang{
       color:black;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    font-size: 1em;
     text-align: center;
-    font-weight: 100; 
 }
-#closebtn{
+.closebtn{
 border: none;
     border-radius: 2px;
     display: inline-block;
@@ -263,7 +257,7 @@ border: none;
       float: right;
     margin: 6px 0;
 }
-githubbtn{
+.githubbtn{
  border: none;
       float: right;
     margin: 6px 0;
