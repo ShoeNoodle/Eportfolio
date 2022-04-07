@@ -322,11 +322,6 @@ border: none;
     right: 0;
     background: rgba(0, 0, 0, 0.2);
 }
-a:link, a:visited,  a:hover, a:active
-{
-    color: #000000;
-    text-decoration: none;
-}
 #skills-container {
     position: relative;
     height: 100%;
