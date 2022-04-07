@@ -212,6 +212,7 @@ main {
     margin-left: 260px;
 }
 .form-popup {
+  border-radius: 10px;
   display: none;
   position: absolute;
   background-color:white;
@@ -233,16 +234,16 @@ color: #000000
     color:black;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
 }
 .popuphead{
-    color:black;
+    color:#2196F3;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     text-align: center;
 }
 .popuplang{
-      color:black;
+    color:#2196F3;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
     text-align: center;
