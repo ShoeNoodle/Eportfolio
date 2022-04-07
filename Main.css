@@ -254,6 +254,10 @@ main {
     text-decoration: none;
       padding-right: 20px;
 }
+.fa fa-github
+{
+ color:black
+}
 .githubbtn{
     margin: 6px 0;
     line-height: 36px;
