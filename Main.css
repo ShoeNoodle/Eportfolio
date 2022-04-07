@@ -226,7 +226,7 @@ main {
   overflow-y: auto;
   will-change: top, opacity;
 }
-#popuptext{
+.popuptext{
     color:black;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
@@ -234,7 +234,7 @@ main {
     text-align: center;
     font-weight: 100; 
 }
-#popuphead{
+.popuphead{
     color:black;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
@@ -242,7 +242,7 @@ main {
     text-align: center;
     font-weight: 100; 
 }
-#popuplang{
+.popuplang{
       color:black;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
