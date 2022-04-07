@@ -467,11 +467,10 @@ main {
 }
 :root {
   font-family: 'Roboto', sans-serif;
-  --transition-speed: 600ms; 
   --font-weight: bold;
-  --font-size: 1em;
+  --font-size: .7em;
   --text-align: center;
-  --font-weight: 100; 
+  --font-weight: 75; 
 } 
 }
 /* Large screens */
