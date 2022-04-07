@@ -226,6 +226,22 @@ main {
   overflow-y: auto;
   will-change: top, opacity;
 }
+#popuptext{
+    color:black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+    font-weight: 100; 
+}
+#popuphead{
+    color:black;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+    font-weight: 100; 
+}
 #closebtn{
 border: none;
     border-radius: 2px;
