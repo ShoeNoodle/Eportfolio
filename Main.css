@@ -211,18 +211,6 @@ main {
     float: left;
     margin-left: 260px;
 }
-#Enigmadiv{
-  background-color: #FFFFFF
-}
-.project-card {
-    position: relative;
-    height: 300px;
-    width: 300px;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    border-radius: 5px;
-    transition: all 0.3s ease-in-out;
-}
 .form-popup {
   display: none;
   position: fixed;
@@ -237,6 +225,15 @@ main {
   max-width: 300px;
   padding: 10px;
   background-color: white;
+}
+.project-card {
+    position: relative;
+    height: 300px;
+    width: 300px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in-out;
 }
 
 .project-card:hover {
@@ -409,7 +406,7 @@ main {
 .skill-icon {
     color: #1b99bb;
 }
-/*
+/* Small screens */
 @media only screen and (max-width: 600px) {
   .navbar {
     bottom: 0;
@@ -467,13 +464,14 @@ main {
 }
 :root {
   font-family: 'Roboto', sans-serif;
+  --transition-speed: 600ms; 
   --font-weight: bold;
-  --font-size: .7em;
+  --font-size: 1em;
   --text-align: center;
-  --font-weight: 75; 
+  --font-weight: 100; 
 } 
 }
-/* Large screens 
+/* Large screens */
 @media only screen and (min-width: 600px) {
   .navbar {
     top: 0;
@@ -546,4 +544,3 @@ main {
 .solar #solarIcon {
   display: block; 
 }
-*/
