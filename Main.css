@@ -226,6 +226,9 @@ main {
   overflow-y: auto;
   will-change: top, opacity;
 }
+.fa_custom {
+color: #000000
+}
 .popuptext{
     color:black;
     font-family: 'Roboto', sans-serif;
