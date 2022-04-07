@@ -418,6 +418,38 @@ main {
     margin: 0;
     
   }
+  }
+#Aboutme{
+ background-color:#14151B;
+ text-align: center;
+ width: 100vw;
+ height: 100vh;
+ float:right; 
+ clear: left;
+ overflow-y: hidden;
+ overflow-x: hidden;
+}
+#Projects{
+ background-color:#14151B;
+ text-align: center;
+ width: 100vw;
+ height: 100vh;
+ float:right; 
+ clear: left;
+ overflow-y: hidden;
+ overflow-x: hidden;
+}
+#Skills{
+ background-color:#14151B;
+ text-align: center;
+ width: 100vw;
+ height: 100vh;
+ float:right; 
+ clear: left;
+ list-style: none;
+ overflow-y: hidden;
+ overflow-x: hidden;
+}
 }
 /* Large screens */
 @media only screen and (min-width: 600px) {
