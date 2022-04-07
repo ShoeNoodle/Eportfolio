@@ -211,14 +211,6 @@ main {
     float: left;
     margin-left: 260px;
 }
-#form-background{
- display:none;
- width:100vw;
- height:100vh;
- position:absolute;
- z-index:1 !important;
- filter: blur(8px);
-}
 .form-popup {
   display: none;
   position: absolute;
