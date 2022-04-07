@@ -34,7 +34,7 @@
 #Aboutme{
  background-color:#14151B;
  text-align: center;
- width: 100vw;
+ width: 95vw;
  height: 100vh;
  float:right; 
  clear: left;
@@ -44,7 +44,7 @@
 #Projects{
  background-color:#14151B;
  text-align: center;
- width: 100%;
+ width: 95vw;
  height: 100vh;
  float:right; 
  clear: left;
@@ -54,7 +54,7 @@
 #Skills{
  background-color:#14151B;
  text-align: center;
- width: 100%;
+ width: 95vw;
  height: 100vh;
  float:right; 
  clear: left;
