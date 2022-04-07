@@ -277,10 +277,10 @@ main {
     padding-left: 200px;
 }
 #skill-framework{
-    border-left: 2px dashed #4E5283;
-    border-right: 2px dashed #4E5283;
-    border-top: 2px dashed #4E5283;
-    border-bottom: 2px dashed #4E5283;
+    border-left: 2px dashed #1b99bb;
+    border-right: 2px dashed #1b99bb;
+    border-top: 2px dashed #1b99bb;
+    border-bottom: 2px dashed #1b99bb;
     padding: 15px 8px 8px 8px;
     overflow-y: auto;
 }
@@ -288,10 +288,10 @@ main {
      list-style-type: none; 
 }
 #skill-tools{
-    border-left: 2px dashed #4E5283;
-    border-right: 2px dashed #4E5283;
-    border-top: 2px dashed #4E5283;
-    border-bottom: 2px dashed #4E5283;
+    border-left: 2px dashed #1b99bb;
+    border-right: 2px dashed #1b99bb;
+    border-top: 2px dashed #1b99bb;
+    border-bottom: 2px dashed #1b99bb;
     padding: 1px 8px 1px 8px;
     overflow-y: auto;
     list-style-type: none;
@@ -355,7 +355,7 @@ main {
 .chart span {
     margin: 0 1em;
     display: block;
-    background: #4E5283;
+    background: #1b99bb;
     border-radius: 4px;
 }
 
@@ -392,7 +392,7 @@ main {
     color: #0E6BA8;
 }
 .skill-icon {
-    color: #4E5283;
+    color: #1b99bb;
 }
 /* Small screens */
 @media only screen and (max-width: 600px) {
