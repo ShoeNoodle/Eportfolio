@@ -11,3 +11,10 @@ function showDiv() {
         in_duration= 300, 
         out_duration= 200;
           }
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
