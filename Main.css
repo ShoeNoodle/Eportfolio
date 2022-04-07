@@ -10,6 +10,13 @@
   --text-align: center;
   --font-weight: 200; 
 } 
+.stop-scrolling {
+
+height: 100%;
+
+overflow: hidden;
+
+}
 #loading {
     display: block;
     position: absolute;
