@@ -245,37 +245,19 @@ main {
     text-align: center;
 }
 .closebtn{
-border: none;
-    border-radius: 2px;
-    display: inline-block;
-    height: 36px;
     line-height: 36px;
-    outline: 0;
-    padding: 0 2rem;
-    text-transform: uppercase;
-    vertical-align: middle;
-      float: right;
     margin: 6px 0;
-      right: 75px;
+    right: 0px;
     bottom: 0;
     position: absolute;
-      color: #000000;
+    color: #000000;
     text-decoration: none;
 }
 }
 .githubbtn{
- border: none;
-      float: right;
     margin: 6px 0;
-    border-radius: 2px;
-    display: inline-block;
-    height: 36px;
     line-height: 36px;
-    outline: 0;
-    padding: 0 2rem;
-    text-transform: uppercase;
-    vertical-align: middle; 
-      right: 75px;
+    right: 75px;
     bottom: 0;
     position: absolute;
     color: #000000;
