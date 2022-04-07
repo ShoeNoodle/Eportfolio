@@ -259,6 +259,9 @@ border: none;
       right: 75px;
     bottom: 0;
     position: absolute;
+      color: #000000;
+    text-decoration: none;
+}
 }
 .githubbtn{
  border: none;
@@ -275,6 +278,8 @@ border: none;
       right: 75px;
     bottom: 0;
     position: absolute;
+    color: #000000;
+    text-decoration: none;
 }
 /* Add styles to the form container */
 .form-container {
