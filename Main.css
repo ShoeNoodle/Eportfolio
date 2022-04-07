@@ -409,7 +409,7 @@ main {
 .skill-icon {
     color: #1b99bb;
 }
-/* Small screens */
+/*
 @media only screen and (max-width: 600px) {
   .navbar {
     bottom: 0;
@@ -473,7 +473,7 @@ main {
   --font-weight: 75; 
 } 
 }
-/* Large screens */
+/* Large screens 
 @media only screen and (min-width: 600px) {
   .navbar {
     top: 0;
@@ -546,3 +546,4 @@ main {
 .solar #solarIcon {
   display: block; 
 }
+*/
