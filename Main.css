@@ -211,9 +211,6 @@ main {
     float: left;
     margin-left: 260px;
 }
-#enigma:active #projects{
-  filter: blur(8px); 
-}
 .form-popup {
   display: none;
   position: absolute;
