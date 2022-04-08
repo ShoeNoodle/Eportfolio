@@ -53,7 +53,7 @@ function closeForm6() {
   document.getElementById("myForm6").style.display = "none";
   document.body.classList.remove("stop-scrolling");
 }
-let slideIndex = [5,5];
+let slideIndex = [1,1,1,1,1,1];
 /* Class the members of each slideshow group with different CSS classes */
 let slideId = ["mySlides1", "mySlides2","mySlides3", "mySlides4","mySlides5", "mySlides6"]
 
