@@ -53,7 +53,7 @@ function closeForm6() {
   document.getElementById("myForm6").style.display = "none";
   document.body.classList.remove("stop-scrolling");
 }
-
+let slideIndex = 0;
 // Next/previous controls
 function plusSlides(n) {
   showSlides(slideIndex += n);
