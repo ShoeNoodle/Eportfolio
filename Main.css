@@ -293,29 +293,8 @@ color: #000000
 }
 
 /* Hide the images by default */
-.mySlides {
-  display: none;
-}
-/* Hide the images by default */
-.mySlides2 {
-  display: none;
-}
-/* Hide the images by default */
-.mySlides3 {
-  display: none;
-}
-/* Hide the images by default */
-.mySlides4 {
-  display: none;
-}
-/* Hide the images by default */
-.mySlides5 {
-  display: none;
-}
-/* Hide the images by default */
-.mySlides6 {
-  display: none;
-}
+.mySlides, .mySlides2, .mySlides3, .mySlides4, .mySlides5, .mySlides6 {display: none}
+
 /* Next & previous buttons */
 .prev {
   cursor: pointer;
