@@ -56,12 +56,6 @@ function closeForm6() {
 let slideIndex = [1,1,1,1,1,1];
 /* Class the members of each slideshow group with different CSS classes */
 let slideId = ["mySlides1","mySlides2","mySlides3","mySlides4","mySlides5","mySlides6"]
-showSlides(0, 0);
-showSlides(0, 1);
-showSlides(0,2);
-showSlides(0,3);
-showSlides(0,4);
-showSlides(0,5);
 function plusSlides(n, no) {
   showSlides(slideIndex[no] += n, no);
 }
