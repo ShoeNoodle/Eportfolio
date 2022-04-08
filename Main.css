@@ -296,7 +296,26 @@ color: #000000
 .mySlides {
   display: none;
 }
-
+/* Hide the images by default */
+.mySlides2 {
+  display: none;
+}
+/* Hide the images by default */
+.mySlides3 {
+  display: none;
+}
+/* Hide the images by default */
+.mySlides4 {
+  display: none;
+}
+/* Hide the images by default */
+.mySlides5 {
+  display: none;
+}
+/* Hide the images by default */
+.mySlides6 {
+  display: none;
+}
 /* Next & previous buttons */
 .prev {
   cursor: pointer;
