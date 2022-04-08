@@ -54,8 +54,6 @@ function closeForm6() {
   document.body.classList.remove("stop-scrolling");
 }
 let slideIndex = 0;
-showSlides();
-
 function showSlides() {
   let i;
   let slides = document.getElementsByClassName("mySlides");
