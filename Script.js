@@ -53,7 +53,19 @@ function closeForm6() {
   document.getElementById("myForm6").style.display = "none";
   document.body.classList.remove("stop-scrolling");
 }
+
+// Next/previous controls
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+// Thumbnail image controls
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
 let slideIndex = 0;
+
 function showSlides() {
   let i;
   let dots = document.getElementsByClassName("dot");
