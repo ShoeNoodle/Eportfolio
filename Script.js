@@ -54,14 +54,14 @@ function closeForm6() {
   document.body.classList.remove("stop-scrolling");
 }
 let slideIndex = 0;
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
 function showSlides() {
   let i;
   let slides = document.getElementsByClassName("mySlides");
   for (i = 0; i < slides.length; i++) {
     slides[i].style.display = "none";
+  }
+   for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" active", "");
   }
   slideIndex++;
   if (slideIndex > slides.length) {slideIndex = 1}
