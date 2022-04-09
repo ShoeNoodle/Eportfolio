@@ -9,6 +9,11 @@ function openForm() {
   document.getElementById("myForm").style.display = "block";
   document.body.classList.add("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(4px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(4px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(4px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(4px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(4px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(4px)";
 }
@@ -16,6 +21,11 @@ function closeForm() {
   document.getElementById("myForm").style.display = "none";
   document.body.classList.remove("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(0px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(0px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(0px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(0px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(0px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(0px)";
 }
@@ -23,6 +33,11 @@ function openForm2() {
   document.getElementById("myForm2").style.display = "block";
   document.body.classList.add("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(4px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(4px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(4px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(4px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(4px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(4px)";
 }
@@ -30,6 +45,11 @@ function closeForm2() {
   document.getElementById("myForm2").style.display = "none";
   document.body.classList.remove("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(0px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(0px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(0px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(0px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(0px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(0px)";
 }
@@ -37,6 +57,11 @@ function openForm3() {
   document.getElementById("myForm3").style.display = "block";
   document.body.classList.add("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(4px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(4px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(4px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(4px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(4px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(4px)";
 }
@@ -44,6 +69,11 @@ function closeForm3() {
   document.getElementById("myForm3").style.display = "none";
   document.body.classList.remove("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(0px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(0px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(0px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(0px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(0px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)"; 
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(0px)";
 }
@@ -51,6 +81,11 @@ function openForm4() {
   document.getElementById("myForm4").style.display = "block";
   document.body.classList.add("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(4px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(4px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(4px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(4px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(4px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(4px)";
 }
@@ -58,6 +93,11 @@ function closeForm4() {
   document.getElementById("myForm4").style.display = "none";
   document.body.classList.remove("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(0px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(0px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(0px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(0px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(0px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(0px)";
 }
@@ -65,6 +105,11 @@ function openForm5() {
   document.getElementById("myForm5").style.display = "block";
   document.body.classList.add("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(4px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(4px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(4px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(4px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(4px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(4px)";
 }
@@ -72,6 +117,11 @@ function closeForm5() {
   document.getElementById("myForm5").style.display = "none";
   document.body.classList.remove("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(0px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(0px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(0px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(0px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(0px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(0px)";
 }
@@ -79,6 +129,11 @@ function openForm6() {
   document.getElementById("myForm6").style.display = "block";
   document.body.classList.add("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(4px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(4px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(4px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(4px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(4px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(4px)";
 }
@@ -86,6 +141,11 @@ function closeForm6() {
   document.getElementById("myForm6").style.display = "none";
   document.body.classList.remove("stop-scrolling");
   document.getElementById("Enigma").style.webkitFilter = "blur(0px)";
+  document.getElementById("Discord_bot").style.webkitFilter = "blur(0px)";
+  document.getElementById("Bank_app").style.webkitFilter = "blur(0px)";
+  document.getElementById("Machine_Learn").style.webkitFilter = "blur(0px)";
+  document.getElementById("Computer_Vision").style.webkitFilter = "blur(0px)";
+  document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navigationbar").style.webkitFilter = "blur(0px)";
 }
