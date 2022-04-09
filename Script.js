@@ -8,73 +8,73 @@ window.onbeforeunload = function () {
 function openForm() {
   document.getElementById("myForm").style.display = "block";
   document.body.classList.add("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(4px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(4px)";
 }
 function closeForm() {
   document.getElementById("myForm").style.display = "none";
   document.body.classList.remove("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(0px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(0px)";
 }
 function openForm2() {
   document.getElementById("myForm2").style.display = "block";
   document.body.classList.add("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(4px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(4px)";
 }
 function closeForm2() {
   document.getElementById("myForm2").style.display = "none";
   document.body.classList.remove("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(0px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(0px)";
 }
 function openForm3() {
   document.getElementById("myForm3").style.display = "block";
   document.body.classList.add("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(4px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(4px)";
 }
 function closeForm3() {
   document.getElementById("myForm3").style.display = "none";
   document.body.classList.remove("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(0px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(0px)";
 }
 function openForm4() {
   document.getElementById("myForm4").style.display = "block";
   document.body.classList.add("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(4px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(4px)";
 }
 function closeForm4() {
   document.getElementById("myForm4").style.display = "none";
   document.body.classList.remove("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(0px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(0px)";
 }
 function openForm5() {
   document.getElementById("myForm5").style.display = "block";
   document.body.classList.add("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(4px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(4px)";
 }
 function closeForm5() {
   document.getElementById("myForm5").style.display = "none";
   document.body.classList.remove("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(0px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(0px)";
 }
 function openForm6() {
   document.getElementById("myForm6").style.display = "block";
   document.body.classList.add("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(4px)";
+  document.getElementById("Projects_overlay").style.webkitFilter = "blur(4px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(4px)";
 }
 function closeForm6() {
   document.getElementById("myForm6").style.display = "none";
   document.body.classList.remove("stop-scrolling");
-  document.getElementById("Projects").style.webkitFilter = "blur(0px)";
+  document.getElementById("PProjects_overlay").style.webkitFilter = "blur(0px)";
   document.getElementByClassName("navbar").style.webkitFilter = "blur(0px)";
 }
 let slideIndex = [1,1,1,1,1,1];
