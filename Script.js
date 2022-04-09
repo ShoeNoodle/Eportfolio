@@ -19,7 +19,7 @@ function openForm() {
         document.getElementById("Enigma").style['pointer-events'] = "none";
         document.getElementById("Discord_bot").style['pointer-events']  = "none";
         document.getElementById("Bank_app").style['pointer-events']  = "none";
-        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Machine_Learn").style['pointer-events']  = "none";
         document.getElementById("Computer_Vision").style['pointer-events']  = "none";
         document.getElementById("Wordle").style['pointer-events']  = "none";
         document.getElementById("navigationbar").style['pointer-events']  = "none";
@@ -39,7 +39,7 @@ function closeForm() {
          document.getElementById("Enigma").style['pointer-events'] = "auto";
         document.getElementById("Discord_bot").style['pointer-events'] = "auto";
         document.getElementById("Bank_app").style['pointer-events']= "auto";
-        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Machine_Learn").style['pointer-events'] = "auto";
         document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
         document.getElementById("Wordle").style['pointer-events'] = "auto";
         document.getElementById("navigationbar").style['pointer-events'] = "auto";
@@ -59,7 +59,7 @@ function openForm2() {
         document.getElementById("Enigma").style['pointer-events'] = "none";
         document.getElementById("Discord_bot").style['pointer-events']  = "none";
         document.getElementById("Bank_app").style['pointer-events']  = "none";
-        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Machine_Learn").style['pointer-events']  = "none";
         document.getElementById("Computer_Vision").style['pointer-events']  = "none";
         document.getElementById("Wordle").style['pointer-events']  = "none";
         document.getElementById("navigationbar").style['pointer-events']  = "none";
@@ -78,7 +78,7 @@ function closeForm2() {
          document.getElementById("Enigma").style['pointer-events'] = "auto";
         document.getElementById("Discord_bot").style['pointer-events'] = "auto";
         document.getElementById("Bank_app").style['pointer-events']= "auto";
-        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Machine_Learn").style['pointer-events'] = "auto";
         document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
         document.getElementById("Wordle").style['pointer-events'] = "auto";
         document.getElementById("navigationbar").style['pointer-events'] = "auto";
@@ -99,7 +99,7 @@ function openForm3() {
         document.getElementById("Enigma").style['pointer-events'] = "none";
         document.getElementById("Discord_bot").style['pointer-events']  = "none";
         document.getElementById("Bank_app").style['pointer-events']  = "none";
-        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Machine_Learn").style['pointer-events']  = "none";
         document.getElementById("Computer_Vision").style['pointer-events']  = "none";
         document.getElementById("Wordle").style['pointer-events']  = "none";
         document.getElementById("navigationbar").style['pointer-events']  = "none";
@@ -119,7 +119,7 @@ function closeForm3() {
          document.getElementById("Enigma").style['pointer-events'] = "auto";
         document.getElementById("Discord_bot").style['pointer-events'] = "auto";
         document.getElementById("Bank_app").style['pointer-events']= "auto";
-        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Machine_Learn").style['pointer-events'] = "auto";
         document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
         document.getElementById("Wordle").style['pointer-events'] = "auto";
         document.getElementById("navigationbar").style['pointer-events'] = "auto";
@@ -139,7 +139,7 @@ function openForm4() {
         document.getElementById("Enigma").style['pointer-events'] = "none";
         document.getElementById("Discord_bot").style['pointer-events']  = "none";
         document.getElementById("Bank_app").style['pointer-events']  = "none";
-        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Machine_Learn").style['pointer-events']  = "none";
         document.getElementById("Computer_Vision").style['pointer-events']  = "none";
         document.getElementById("Wordle").style['pointer-events']  = "none";
         document.getElementById("navigationbar").style['pointer-events']  = "none";
@@ -159,7 +159,7 @@ function closeForm4() {
          document.getElementById("Enigma").style['pointer-events'] = "auto";
         document.getElementById("Discord_bot").style['pointer-events'] = "auto";
         document.getElementById("Bank_app").style['pointer-events']= "auto";
-        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Machine_Learn").style['pointer-events'] = "auto";
         document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
         document.getElementById("Wordle").style['pointer-events'] = "auto";
         document.getElementById("navigationbar").style['pointer-events'] = "auto";
@@ -178,7 +178,7 @@ function openForm5() {
         document.getElementById("Enigma").style['pointer-events'] = "none";
         document.getElementById("Discord_bot").style['pointer-events']  = "none";
         document.getElementById("Bank_app").style['pointer-events']  = "none";
-        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Machine_Learn").style['pointer-events']  = "none";
         document.getElementById("Computer_Vision").style['pointer-events']  = "none";
         document.getElementById("Wordle").style['pointer-events']  = "none";
         document.getElementById("navigationbar").style['pointer-events']  = "none";
@@ -198,7 +198,7 @@ function closeForm5() {
          document.getElementById("Enigma").style['pointer-events'] = "auto";
         document.getElementById("Discord_bot").style['pointer-events'] = "auto";
         document.getElementById("Bank_app").style['pointer-events']= "auto";
-        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Machine_Learn").style['pointer-events'] = "auto";
         document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
         document.getElementById("Wordle").style['pointer-events'] = "auto";
         document.getElementById("navigationbar").style['pointer-events'] = "auto";
@@ -218,7 +218,7 @@ function openForm6() {
         document.getElementById("Enigma").style['pointer-events'] = "none";
         document.getElementById("Discord_bot").style['pointer-events']  = "none";
         document.getElementById("Bank_app").style['pointer-events']  = "none";
-        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Machine_Learn").style['pointer-events']  = "none";
         document.getElementById("Computer_Vision").style['pointer-events']  = "none";
         document.getElementById("Wordle").style['pointer-events']  = "none";
         document.getElementById("navigationbar").style['pointer-events']  = "none";
@@ -238,7 +238,7 @@ function closeForm6() {
          document.getElementById("Enigma").style['pointer-events'] = "auto";
         document.getElementById("Discord_bot").style['pointer-events'] = "auto";
         document.getElementById("Bank_app").style['pointer-events']= "auto";
-        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Machine_Learn").style['pointer-events'] = "auto";
         document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
         document.getElementById("Wordle").style['pointer-events'] = "auto";
         document.getElementById("navigationbar").style['pointer-events'] = "auto";
