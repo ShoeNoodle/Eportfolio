@@ -48,6 +48,16 @@ overflow: hidden;
  overflow-y: hidden;
  overflow-x: hidden;
 }
+#Projects_overlay{
+ width: 97vw;
+ height: 100vh;
+ float:right; 
+ clear: left;
+ overflow-y: hidden;
+ overflow-x: hidden;
+ display:none;
+  z-index:1;
+}
 #Projects{
  background-color:#14151B;
  text-align: center;
@@ -57,6 +67,7 @@ overflow: hidden;
  clear: left;
  overflow-y: hidden;
  overflow-x: hidden;
+  z-index:5;
 }
 #Skills{
  background-color:#14151B;
