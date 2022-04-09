@@ -6,14 +6,14 @@ window.onbeforeunload = function () {
 }
 
 function openForm() {
-
   document.getElementById("myForm").style.display = "block";
   document.body.classList.add("stop-scrolling");
+  document.getElementById("Project_overlay").style.display = "block";
 }
 function closeForm() {
-  document.getElementById("Project_overlay").style.display = "none"; 
   document.getElementById("myForm").style.display = "none";
   document.body.classList.remove("stop-scrolling");
+  document.getElementById("Project_overlay").style.display = "none"; 
 }
 function openForm2() {
           document.getElementById("Project_overlay").style.display = "block";
