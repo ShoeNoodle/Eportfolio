@@ -219,6 +219,36 @@ main {
     float: left;
     margin-left: 260px;
 }
+#EDiscord_bot {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    float: left;
+    margin-left: 260px;
+}
+#Bank_app {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    float: left;
+    margin-left: 260px;
+}
+#Machine_Learn {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    float: left;
+    margin-left: 260px;
+}
+#Computer_Vision {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    float: left;
+    margin-left: 260px;
+}
+#Wordle {
+    overflow-y: hidden;
+    overflow-x: hidden;
+    float: left;
+    margin-left: 260px;
+}
 .form-popup {
   border-radius: 10px;
   display: none;
