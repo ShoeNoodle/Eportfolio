@@ -41,7 +41,29 @@ function unblur(){
   document.getElementById("navigationbar").style['pointer-events'] = "auto";     
 }
  document.onclick = function(e){
-        if(e.target.id == 'Projects' || e.target.id == 'navigationbar' || 'Project_heading'){
+        if(e.target.id == 'Projects'){
+            myForm.style.display = 'none';
+            myForm2.style.display = 'none';
+            myForm3.style.display = 'none';
+            myForm4.style.display = 'none';
+            myForm5.style.display = 'none';
+            myForm6.style.display = 'none';
+            unblur(); 
+        }
+ }
+ document.onclick = function(e){
+        if(e.target.id == 'navigationbar'){
+            myForm.style.display = 'none';
+            myForm2.style.display = 'none';
+            myForm3.style.display = 'none';
+            myForm4.style.display = 'none';
+            myForm5.style.display = 'none';
+            myForm6.style.display = 'none';
+            unblur(); 
+        }
+ }
+ document.onclick = function(e){
+        if(e.target.id == 'Project_heading'){
             myForm.style.display = 'none';
             myForm2.style.display = 'none';
             myForm3.style.display = 'none';
