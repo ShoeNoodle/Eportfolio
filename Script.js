@@ -40,6 +40,16 @@ function unblur(){
   document.getElementById("Wordle").style['pointer-events'] = "auto";
   document.getElementById("navigationbar").style['pointer-events'] = "auto";     
 }
+ document.onclick = function(e){
+        if(e.target.id == 'Projects'){
+            myForm.style.display = 'none';
+            myForm2.style.display = 'none';
+            myForm3.style.display = 'none';
+            myForm4.style.display = 'none';
+            myForm5.style.display = 'none';
+            myForm6.style.display = 'none';
+            unblur(); 
+        }
 function openForm() {
   document.getElementById("myForm").style.display = "block";
   document.body.classList.add("stop-scrolling");
