@@ -8,7 +8,7 @@ window.onbeforeunload = function () {
 function openForm() {
   document.getElementById("myForm").style.display = "block";
   document.body.classList.add("stop-scrolling");
-  document.getElementById("Project_overlay").style.display = "block";
+  document.getElementById("Project").style.filter = "blue(4px)";
 }
 function closeForm() {
   document.getElementById("myForm").style.display = "none";
