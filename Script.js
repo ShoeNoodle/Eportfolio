@@ -50,6 +50,7 @@ function unblur(){
             myForm6.style.display = 'none';
             unblur(); 
         }
+ }
 function openForm() {
   document.getElementById("myForm").style.display = "block";
   document.body.classList.add("stop-scrolling");
