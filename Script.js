@@ -8,62 +8,74 @@ window.onbeforeunload = function () {
 function openForm() {
   document.getElementById("myForm").style.display = "block";
   document.body.classList.add("stop-scrolling");
-  document.getElementById("Project").style.filter = "blue(4px)";
+  document.getElementById("Project").style.filter = "blur(4px)";
+  document.getElementById("navbar").style.filter = "blur(4px)";
 }
 function closeForm() {
   document.getElementById("myForm").style.display = "none";
   document.body.classList.remove("stop-scrolling");
-  document.getElementById("Project_overlay").style.display = "none"; 
+  document.getElementById("Project").style.filter = "blur(0px)";
+  document.getElementById("navbar").style.filter = "blur(0px)";
 }
 function openForm2() {
-          document.getElementById("Project_overlay").style.display = "block";
   document.getElementById("myForm2").style.display = "block";
   document.body.classList.add("stop-scrolling");
+  document.getElementById("Project").style.filter = "blur(4px)";
+  document.getElementById("navbar").style.filter = "blur(4px)";
 }
 function closeForm2() {
-          document.getElementById("Project_overlay").style.display = "none"; 
   document.getElementById("myForm2").style.display = "none";
   document.body.classList.remove("stop-scrolling");
+  document.getElementById("Project").style.filter = "blur(0px)";
+  document.getElementById("navbar").style.filter = "blur(0px)";
 }
 function openForm3() {
-          document.getElementById("Project_overlay").style.display = "block";
   document.getElementById("myForm3").style.display = "block";
   document.body.classList.add("stop-scrolling");
+  document.getElementById("Project").style.filter = "blur(4px)";
+  document.getElementById("navbar").style.filter = "blur(4px)";
 }
 function closeForm3() {
-          document.getElementById("Project_overlay").style.display = "none"; 
   document.getElementById("myForm3").style.display = "none";
   document.body.classList.remove("stop-scrolling");
+  document.getElementById("Project").style.filter = "blur(0px)";
+  document.getElementById("navbar").style.filter = "blur(0px)";
 }
 function openForm4() {
-          document.getElementById("Project_overlay").style.display = "block";
   document.getElementById("myForm4").style.display = "block";
   document.body.classList.add("stop-scrolling");
+  document.getElementById("Project").style.filter = "blur(4px)";
+  document.getElementById("navbar").style.filter = "blur(4px)";
 }
 function closeForm4() {
-          document.getElementById("Project_overlay").style.display = "none"; 
   document.getElementById("myForm4").style.display = "none";
   document.body.classList.remove("stop-scrolling");
+  document.getElementById("Project").style.filter = "blur(0px)";
+  document.getElementById("navbar").style.filter = "blur(0px)";
 }
 function openForm5() {
-          document.getElementById("Project_overlay").style.display = "block";
   document.getElementById("myForm5").style.display = "block";
   document.body.classList.add("stop-scrolling");
+  document.getElementById("Project").style.filter = "blur(4px)";
+  document.getElementById("navbar").style.filter = "blur(4px)";
 }
 function closeForm5() {
-          document.getElementById("Project_overlay").style.display = "none"; 
   document.getElementById("myForm5").style.display = "none";
   document.body.classList.remove("stop-scrolling");
+  document.getElementById("Project").style.filter = "blur(0px)";
+  document.getElementById("navbar").style.filter = "blur(0px)";
 }
 function openForm6() {
-  document.getElementById("Project_overlay").style.display = "block";
   document.getElementById("myForm6").style.display = "block";
   document.body.classList.add("stop-scrolling");
+ document.getElementById("Project").style.filter = "blur(4px)";
+  document.getElementById("navbar").style.filter = "blur(4px)";
 }
 function closeForm6() {
-          document.getElementById("Project_overlay").style.display = "none"; 
   document.getElementById("myForm6").style.display = "none";
   document.body.classList.remove("stop-scrolling");
+  document.getElementById("Project").style.filter = "blur(0px)";
+  document.getElementById("navbar").style.filter = "blur(0px)";
 }
 let slideIndex = [1,1,1,1,1,1];
 /* Class the members of each slideshow group with different CSS classes */
