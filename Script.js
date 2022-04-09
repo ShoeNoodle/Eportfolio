@@ -41,7 +41,7 @@ function unblur(){
   document.getElementById("navigationbar").style['pointer-events'] = "auto";     
 }
  document.onclick = function(e){
-        if(e.target.id == 'Projects'){
+        if(e.target.id == 'Projects' || e.target.id == 'navigationbar' || 'Project_heading'){
             myForm.style.display = 'none';
             myForm2.style.display = 'none';
             myForm3.style.display = 'none';
