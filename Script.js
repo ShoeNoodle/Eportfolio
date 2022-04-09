@@ -49,6 +49,7 @@ function unblur(){
             myForm5.style.display = 'none';
             myForm6.style.display = 'none';
             unblur(); 
+            document.body.classList.remove("stop-scrolling");
         }
  }
 function openForm() {
