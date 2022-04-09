@@ -16,14 +16,15 @@ function openForm() {
   document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(4px)";
-        document.getElementById("Enigma").style.pointerEvents = "none";
-        document.getElementById("Discord_bot").style.pointerEvents = "none";
-        document.getElementById("Bank_app").style.pointerEvents = "none";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "none";
-        document.getElementById("Computer_Vision").style.pointerEvents = "none";
-        document.getElementById("Wordle").style.pointerEvents = "none";
-        document.getElementById("navigationbar").style.pointerEvents = "none";
+        document.getElementById("Enigma").style['pointer-events'] = "none";
+        document.getElementById("Discord_bot").style['pointer-events']  = "none";
+        document.getElementById("Bank_app").style['pointer-events']  = "none";
+        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Computer_Vision").style['pointer-events']  = "none";
+        document.getElementById("Wordle").style['pointer-events']  = "none";
+        document.getElementById("navigationbar").style['pointer-events']  = "none";
 }
+
 function closeForm() {
   document.getElementById("myForm").style.display = "none";
   document.body.classList.remove("stop-scrolling");
@@ -35,14 +36,15 @@ function closeForm() {
   document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(0px)";
-                 document.getElementById("Enigma").style.pointerEvents = "auto";
-        document.getElementById("Discord_bot").style.pointerEvents = "auto";
-        document.getElementById("Bank_app").style.pointerEvents = "auto";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "auto";
-        document.getElementById("Computer_Vision").style.pointerEvents = "auto";
-        document.getElementById("Wordle").style.pointerEvents = "auto";
-        document.getElementById("navigationbar").style.pointerEvents = "auto";
+         document.getElementById("Enigma").style['pointer-events'] = "auto";
+        document.getElementById("Discord_bot").style['pointer-events'] = "auto";
+        document.getElementById("Bank_app").style['pointer-events']= "auto";
+        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
+        document.getElementById("Wordle").style['pointer-events'] = "auto";
+        document.getElementById("navigationbar").style['pointer-events'] = "auto";
 }
+
 function openForm2() {
   document.getElementById("myForm2").style.display = "block";
   document.body.classList.add("stop-scrolling");
@@ -54,13 +56,13 @@ function openForm2() {
   document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(4px)";
-         document.getElementById("Enigma").style.pointerEvents = "none";
-        document.getElementById("Discord_bot").style.pointerEvents = "none";
-        document.getElementById("Bank_app").style.pointerEvents = "none";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "none";
-        document.getElementById("Computer_Vision").style.pointerEvents = "none";
-        document.getElementById("Wordle").style.pointerEvents = "none";
-        document.getElementById("navigationbar").style.pointerEvents = "none";
+        document.getElementById("Enigma").style['pointer-events'] = "none";
+        document.getElementById("Discord_bot").style['pointer-events']  = "none";
+        document.getElementById("Bank_app").style['pointer-events']  = "none";
+        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Computer_Vision").style['pointer-events']  = "none";
+        document.getElementById("Wordle").style['pointer-events']  = "none";
+        document.getElementById("navigationbar").style['pointer-events']  = "none";
 }
 function closeForm2() {
   document.getElementById("myForm2").style.display = "none";
@@ -73,15 +75,16 @@ function closeForm2() {
   document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(0px)";
-                 document.getElementById("Enigma").style.pointerEvents = "auto";
-        document.getElementById("Discord_bot").style.pointerEvents = "auto";
-        document.getElementById("Bank_app").style.pointerEvents = "auto";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "auto";
-        document.getElementById("Computer_Vision").style.pointerEvents = "auto";
-        document.getElementById("Wordle").style.pointerEvents = "auto";
-        document.getElementById("navigationbar").style.pointerEvents = "auto";
+         document.getElementById("Enigma").style['pointer-events'] = "auto";
+        document.getElementById("Discord_bot").style['pointer-events'] = "auto";
+        document.getElementById("Bank_app").style['pointer-events']= "auto";
+        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
+        document.getElementById("Wordle").style['pointer-events'] = "auto";
+        document.getElementById("navigationbar").style['pointer-events'] = "auto";
         
 }
+
 function openForm3() {
   document.getElementById("myForm3").style.display = "block";
   document.body.classList.add("stop-scrolling");
@@ -93,14 +96,15 @@ function openForm3() {
   document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(4px)";
-         document.getElementById("Enigma").style.pointerEvents = "none";
-        document.getElementById("Discord_bot").style.pointerEvents = "none";
-        document.getElementById("Bank_app").style.pointerEvents = "none";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "none";
-        document.getElementById("Computer_Vision").style.pointerEvents = "none";
-        document.getElementById("Wordle").style.pointerEvents = "none";
-        document.getElementById("navigationbar").style.pointerEvents = "none";
+        document.getElementById("Enigma").style['pointer-events'] = "none";
+        document.getElementById("Discord_bot").style['pointer-events']  = "none";
+        document.getElementById("Bank_app").style['pointer-events']  = "none";
+        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Computer_Vision").style['pointer-events']  = "none";
+        document.getElementById("Wordle").style['pointer-events']  = "none";
+        document.getElementById("navigationbar").style['pointer-events']  = "none";
 }
+
 function closeForm3() {
   document.getElementById("myForm3").style.display = "none";
   document.body.classList.remove("stop-scrolling");
@@ -112,14 +116,15 @@ function closeForm3() {
   document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)"; 
   document.getElementById("navigationbar").style.webkitFilter = "blur(0px)";
-                 document.getElementById("Enigma").style.pointerEvents = "auto";
-        document.getElementById("Discord_bot").style.pointerEvents = "auto";
-        document.getElementById("Bank_app").style.pointerEvents = "auto";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "auto";
-        document.getElementById("Computer_Vision").style.pointerEvents = "auto";
-        document.getElementById("Wordle").style.pointerEvents = "auto";
-        document.getElementById("navigationbar").style.pointerEvents = "auto";
+         document.getElementById("Enigma").style['pointer-events'] = "auto";
+        document.getElementById("Discord_bot").style['pointer-events'] = "auto";
+        document.getElementById("Bank_app").style['pointer-events']= "auto";
+        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
+        document.getElementById("Wordle").style['pointer-events'] = "auto";
+        document.getElementById("navigationbar").style['pointer-events'] = "auto";
 }
+
 function openForm4() {
   document.getElementById("myForm4").style.display = "block";
   document.body.classList.add("stop-scrolling");
@@ -131,14 +136,15 @@ function openForm4() {
   document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(4px)";
-         document.getElementById("Enigma").style.pointerEvents = "none";
-        document.getElementById("Discord_bot").style.pointerEvents = "none";
-        document.getElementById("Bank_app").style.pointerEvents = "none";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "none";
-        document.getElementById("Computer_Vision").style.pointerEvents = "none";
-        document.getElementById("Wordle").style.pointerEvents = "none";
-        document.getElementById("navigationbar").style.pointerEvents = "none";
+        document.getElementById("Enigma").style['pointer-events'] = "none";
+        document.getElementById("Discord_bot").style['pointer-events']  = "none";
+        document.getElementById("Bank_app").style['pointer-events']  = "none";
+        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Computer_Vision").style['pointer-events']  = "none";
+        document.getElementById("Wordle").style['pointer-events']  = "none";
+        document.getElementById("navigationbar").style['pointer-events']  = "none";
 }
+
 function closeForm4() {
   document.getElementById("myForm4").style.display = "none";
   document.body.classList.remove("stop-scrolling");
@@ -150,13 +156,13 @@ function closeForm4() {
   document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(0px)";
-                 document.getElementById("Enigma").style.pointerEvents = "auto";
-        document.getElementById("Discord_bot").style.pointerEvents = "auto";
-        document.getElementById("Bank_app").style.pointerEvents = "auto";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "auto";
-        document.getElementById("Computer_Vision").style.pointerEvents = "auto";
-        document.getElementById("Wordle").style.pointerEvents = "auto";
-        document.getElementById("navigationbar").style.pointerEvents = "auto";
+         document.getElementById("Enigma").style['pointer-events'] = "auto";
+        document.getElementById("Discord_bot").style['pointer-events'] = "auto";
+        document.getElementById("Bank_app").style['pointer-events']= "auto";
+        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
+        document.getElementById("Wordle").style['pointer-events'] = "auto";
+        document.getElementById("navigationbar").style['pointer-events'] = "auto";
 }
 function openForm5() {
   document.getElementById("myForm5").style.display = "block";
@@ -169,13 +175,14 @@ function openForm5() {
   document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(4px)";
-         document.getElementById("Enigma").style.pointerEvents = "none";
-        document.getElementById("Discord_bot").style.pointerEvents = "none";
-        document.getElementById("Bank_app").style.pointerEvents = "none";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "none";
-        document.getElementById("Computer_Vision").style.pointerEvents = "none";
-        document.getElementById("Wordle").style.pointerEvents = "none";
-        document.getElementById("navigationbar").style.pointerEvents = "none";
+        document.getElementById("Enigma").style['pointer-events'] = "none";
+        document.getElementById("Discord_bot").style['pointer-events']  = "none";
+        document.getElementById("Bank_app").style['pointer-events']  = "none";
+        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Computer_Vision").style['pointer-events']  = "none";
+        document.getElementById("Wordle").style['pointer-events']  = "none";
+        document.getElementById("navigationbar").style['pointer-events']  = "none";
+        
 }
 function closeForm5() {
   document.getElementById("myForm5").style.display = "none";
@@ -188,14 +195,15 @@ function closeForm5() {
   document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(0px)";
-                 document.getElementById("Enigma").style.pointerEvents = "auto";
-        document.getElementById("Discord_bot").style.pointerEvents = "auto";
-        document.getElementById("Bank_app").style.pointerEvents = "auto";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "auto";
-        document.getElementById("Computer_Vision").style.pointerEvents = "auto";
-        document.getElementById("Wordle").style.pointerEvents = "auto";
-        document.getElementById("navigationbar").style.pointerEvents = "auto";
+         document.getElementById("Enigma").style['pointer-events'] = "auto";
+        document.getElementById("Discord_bot").style['pointer-events'] = "auto";
+        document.getElementById("Bank_app").style['pointer-events']= "auto";
+        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
+        document.getElementById("Wordle").style['pointer-events'] = "auto";
+        document.getElementById("navigationbar").style['pointer-events'] = "auto";
 }
+
 function openForm6() {
   document.getElementById("myForm6").style.display = "block";
   document.body.classList.add("stop-scrolling");
@@ -207,14 +215,15 @@ function openForm6() {
   document.getElementById("Wordle").style.webkitFilter = "blur(4px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(4px)";
  document.getElementById("navigationbar").style.webkitFilter = "blur(4px)";
-         document.getElementById("Enigma").style.pointerEvents = "none";
-        document.getElementById("Discord_bot").style.pointerEvents = "none";
-        document.getElementById("Bank_app").style.pointerEvents = "none";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "none";
-        document.getElementById("Computer_Vision").style.pointerEvents = "none";
-        document.getElementById("Wordle").style.pointerEvents = "none";
-        document.getElementById("navigationbar").style.pointerEvents = "none";
+        document.getElementById("Enigma").style['pointer-events'] = "none";
+        document.getElementById("Discord_bot").style['pointer-events']  = "none";
+        document.getElementById("Bank_app").style['pointer-events']  = "none";
+        document.getElementById("nMachine_Learn").style['pointer-events']  = "none";
+        document.getElementById("Computer_Vision").style['pointer-events']  = "none";
+        document.getElementById("Wordle").style['pointer-events']  = "none";
+        document.getElementById("navigationbar").style['pointer-events']  = "none";
 }
+
 function closeForm6() {
   document.getElementById("myForm6").style.display = "none";
   document.body.classList.remove("stop-scrolling");
@@ -226,13 +235,13 @@ function closeForm6() {
   document.getElementById("Wordle").style.webkitFilter = "blur(0px)";
   document.getElementById("Project_heading").style.webkitFilter = "blur(0px)";
   document.getElementById("navigationbar").style.webkitFilter = "blur(0px)";
-         document.getElementById("Enigma").style.pointerEvents = "auto";
-        document.getElementById("Discord_bot").style.pointerEvents = "auto";
-        document.getElementById("Bank_app").style.pointerEvents = "auto";
-        document.getElementById("nMachine_Learn").style.pointerEvents = "auto";
-        document.getElementById("Computer_Vision").style.pointerEvents = "auto";
-        document.getElementById("Wordle").style.pointerEvents = "auto";
-        document.getElementById("navigationbar").style.pointerEvents = "auto";
+         document.getElementById("Enigma").style['pointer-events'] = "auto";
+        document.getElementById("Discord_bot").style['pointer-events'] = "auto";
+        document.getElementById("Bank_app").style['pointer-events']= "auto";
+        document.getElementById("nMachine_Learn").style['pointer-events'] = "auto";
+        document.getElementById("Computer_Vision").style['pointer-events'] = "auto";
+        document.getElementById("Wordle").style['pointer-events'] = "auto";
+        document.getElementById("navigationbar").style['pointer-events'] = "auto";
 }
 let slideIndex = [1,1,1,1,1,1];
 /* Class the members of each slideshow group with different CSS classes */
