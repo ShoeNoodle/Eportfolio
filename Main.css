@@ -90,7 +90,8 @@ h1 {
   font-size: 4em;
   text-align: center;
   font-weight: 100;
-   margin-bottom: 40px;
+  margin-bottom: 35px;
+  margin-top: 35px
 }
 h3 {
   font-weight: bold;
@@ -262,7 +263,7 @@ main {
   left: 0;
   right: 0;
   padding: 0;
-  height: 75%;
+  height: 72%;
   width: 65%;
   margin: auto;
   overflow-y: auto;
