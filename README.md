@@ -7,3 +7,5 @@ Future plans;
 Scalability, make it work for phones and smaller resolutions.
 
 Beautify.
+
+Add a light/dark mode toggle.
