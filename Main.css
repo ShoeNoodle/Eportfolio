@@ -220,37 +220,37 @@ main {
     overflow-y: hidden;
     overflow-x: hidden;
     float: left;
-    margin-left: 280px;
+    margin-left: 14%;
 }
 #Discord_bot {
     overflow-y: hidden;
     overflow-x: hidden;
     float: left;
-    margin-left: 260px;
+    margin-left: 14%;
 }
 #Bank_app {
     overflow-y: hidden;
     overflow-x: hidden;
     float: left;
-    margin-left: 260px;
+    margin-left: 14%;
 }
 #Machine_Learn {
     overflow-y: hidden;
     overflow-x: hidden;
     float: left;
-    margin-left: 280px;
+    margin-left: 14%;
 }
 #Computer_Vision {
     overflow-y: hidden;
     overflow-x: hidden;
-    float: left;
-    margin-left: 260px;
+    float: left;   
+    margin-left: 14%;
 }
 #Wordle {
     overflow-y: hidden;
     overflow-x: hidden;
     float: left;
-    margin-left: 260px;
+    margin-left: 14%;
 }
 .form-popup {
   border-radius: 10px;
