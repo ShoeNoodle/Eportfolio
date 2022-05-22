@@ -114,6 +114,7 @@ main {
   position: fixed;
   background-color: var(--bg-primary);
   transition: 700ms ease;
+  z-index: 5;
 }
 
 .navbar-nav {
