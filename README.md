@@ -4,8 +4,6 @@ This is my own personal website which shows off my personal projects that I have
 
 Future plans;
 
-Scalability, make it work for phones and smaller resolutions.
-
-Beautify.
+Maybe remake with React
 
 Add a light/dark mode toggle.
